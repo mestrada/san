@@ -1,0 +1,29 @@
+/home/matias/devel/inf414/datasets/aan/aan/release/2013
+
+acl.txt
+C08-3004 ==> A00-1002
+D09-1141 ==> A00-1002
+D12-1027 ==> A00-1002
+
+author_ids.txt
+1	Aarseth, Paul
+2	Aarts, Erik
+4	Abaitua, Joseba
+
+paper_ids.txt
+W09-2307	Discriminative Reordering...	2009
+W04-2607	Non-Classical Lexical Semantic...	2004
+W01-1314	A System For Extraction Of...	2001
+
+paper_author_affiliations.txt
+paper_id	author_id	affiliation_id
+C86-1068	10003	1
+C98-1070	2610	2
+P98-1073	2610	2
+
+(opt) acl-metadata.txt
+id = {D10-1001}
+author = {Rush, Alexander M.; Sontag, David; Collins, Michael John; Jaakkola, Tommi}
+title = {On Dual Decomposition and Linear Programming Relaxations for Natural Language Processing}
+venue = {EMNLP}
+year = {2010}
